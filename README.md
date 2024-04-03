@@ -1,8 +1,10 @@
 **PCB Design for LED Control, Relay Management, and Environmental Monitoring**
 
 This repository contains the files and documentation for a professional-grade Printed Circuit Board (PCB) designed to control LED brightness, manage a 230V relay, and monitor environmental conditions such as temperature and humidity. The PCB is built using the **ESP32-S3** chip and incorporates various features for efficient operation and user convenience.
+
 ![3d_model](https://github.com/Nikola98p/LED-Brightness-Regulator-High-Voltage-Relay-Temperature-and-Humidity/assets/32436155/a298169d-f969-4ec5-86f4-d87b348cf657)
 
+![Drawing1](https://github.com/Nikola98p/LED-Brightness-Regulator-High-Voltage-Relay-Temperature-and-Humidity/assets/32436155/55add725-48c6-453b-baa0-607495d64f99)
 
 **Features**
 
